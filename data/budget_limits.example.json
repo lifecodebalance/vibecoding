@@ -1,0 +1,6 @@
+[
+  {"category": "Продукты", "limit": 7000},
+  {"category": "Еда", "limit": 3000},
+  {"category": "Транспорт", "limit": 2500},
+  {"category": "Развлечения", "limit": 2000}
+]
